@@ -1,0 +1,19 @@
+[
+  {
+    "Type": "TCP",
+    "Token": "MyCustomPlugin",
+    "Config": {
+      "IP": "127.0.0.1",
+      "Port": "8080"
+    },
+    "Version": "0.1",
+    "Model": {
+      "Name": "XiaoMiLight200 灯",
+      "Attributes": {
+        "Light": "100",
+        "Rate": "30°",
+        "Color": "黄色"
+      }
+    }
+  }
+]
